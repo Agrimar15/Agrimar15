@@ -1,16 +1,58 @@
-## Hi there 👋
+# Olá, eu sou Agrimar! 👋
 
-<!--
-**Agrimar15/Agrimar15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub!  
+Aqui você encontra um pouco da minha jornada profissional e das minhas paixões.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Sobre mim
+
+Formado em Ciências Contábeis pela UFPE, atuo como Auditor Contábil Externo, Auditor Interno e Consultor Interno, com experiência em Controladoria e afins. Atualmente, trabalho aplicando auditorias internas e consultorias financeiras em empresas de diversos segmentos.
+
+---
+
+## 🛠️ Habilidades
+
+- **Excel** (avançado)
+- **PowerBI**
+- **IDEA / ACL**
+- **SQL**
+- **Python** (iniciante, focado em análise de dados)
+
+---
+
+## 🚀 Projetos e Atuação
+
+- Reformulação do método de custeio para empresas do ramo hospitalar
+- Auditorias relevantes em empresas como:
+  - GRI Tower
+  - Selfit
+  - COMPESA
+  - Sport Club do Recife
+- Consultorias para otimização de custos e processos financeiros
+
+Confira meus projetos aqui no [GitHub](https://github.com/Agrimar15).
+
+---
+
+## 🌐 Redes e Contato
+
+- [GitHub](https://github.com/Agrimar15)
+- (Adicione aqui seu LinkedIn ou outras redes, se quiser!)
+
+---
+
+## ✨ Curiosidades & Interesses
+
+- Amante do Xadrez ♟️
+- Apaixonado por filmes de guerra, terror psicológico e animes 🎬
+- Praticante de Voleibol 🏐
+- Apreciador de uma boa cerveja e samba de vez em quando 🍻🎶
+
+---
+
+Se quiser conversar sobre auditoria, dados, xadrez ou até indicar um bom filme, fique à vontade para entrar em contato!
+
+---
+
+> “A excelência não é um ato, mas um hábito.” – Aristóteles
