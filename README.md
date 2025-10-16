@@ -7,7 +7,7 @@ Aqui você encontra um pouco da minha jornada profissional e das minhas paixões
 
 ## 💼 Sobre mim
 
-Formado em Ciências Contábeis pela UFPE, atuo como Auditor Contábil Externo, Auditor Interno e Consultor Interno, com experiência em Controladoria e afins. Atualmente, trabalho aplicando auditorias internas e consultorias financeiras em empresas de diversos segmentos.
+Formado em Ciências Contábeis pela UFPE, atuo como Auditor Contábil Externo, Auditor Interno e Consultor Interno, com experiência em Controladoria, Finanças etc. Atualmente, trabalho como Consultor Sênior aplicando auditorias internas e consultorias financeiras em empresas de diversos segmentos.
 
 ---
 
