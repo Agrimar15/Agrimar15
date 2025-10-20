@@ -38,7 +38,6 @@ Confira meus projetos aqui no [GitHub](https://github.com/Agrimar15).
 ## 🌐 Redes e Contato
 
 - [GitHub](https://github.com/Agrimar15)
-- (Adicione aqui seu LinkedIn ou outras redes, se quiser!)
 
 ---
 
